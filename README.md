@@ -1,4 +1,4 @@
-# LiGANN: 3D Conditional Ligand Shape Generation
+# Structure-based Drug Discovery with Deep Learning (LiGANN)
 
 ## Overview
 
