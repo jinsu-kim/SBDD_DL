@@ -15,6 +15,14 @@ LiGANN: Structure-Based De Novo Drug Design with Generative Adversarial Networks
 
 ---
 
+## Motivation
+
+Drug molecules bind to proteins through a combination of physicochemical interactions such as electrostatic attraction, hydrogen bonding, hydrophobic effects, and van der Waals forces.
+
+The goal of this project is to learn these interactions directly from voxelized protein binding pockets and generate ligand candidates that are compatible with the local binding environment.
+
+---
+
 ## Pipeline Overview
 
 <p align="center">
